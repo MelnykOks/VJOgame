@@ -22,6 +22,7 @@ void Setup(){
 	fruitX = rand() % height;
 	score = 0;
 }
+/*sample git*/
 /*new  repozitory named as VJOgame*/
 void Draw(){
 	system("cls"); // sytem("clear");
